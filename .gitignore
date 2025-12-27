@@ -1,0 +1,9 @@
+.metadata/
+.metadatas/
+.idea/
+.vscode/
+*.launch
+node_modules/
+dist/
+build/
+.env
